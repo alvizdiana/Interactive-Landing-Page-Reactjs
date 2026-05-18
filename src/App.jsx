@@ -3,7 +3,6 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero';
 import Product from './components/Product';
 import Deals from './components/Deals';
-import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import { Toaster } from 'react-hot-toast';
 
@@ -17,7 +16,6 @@ const App = () => {
       <Hero/>
       <Product/>
       <Deals/>
-      <ContactUs/>
       <Footer theme={theme}/>
     </div>
   )
