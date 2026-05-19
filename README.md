@@ -4,7 +4,7 @@ This is a development project for a single-page application landing page built w
 
 ## Key Features
 
-- Single-page application landing page featuring Home, Product, Discount, and Contact Us menus.
+- Single-page application landing page featuring Home, Product, Deals, and Contact Us menus.
 - Features dual themes (dark and light mode).
 
 ## Demo App
